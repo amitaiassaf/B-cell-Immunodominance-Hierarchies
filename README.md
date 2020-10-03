@@ -5,19 +5,12 @@
 The yearly vaccine against the influenza virus targets a protein on its surface called called hemagglutinin (HA), which helps the virus to bind and enter the host cells.
 Following vaccination, the immune system generates antibodies that target HA and can neutralize the virus. Most antibodies target the head of the HA protein, which mutates rapidly and often escape those antibodies. The stem of HA contains conserved residues that are the target of broadly neutralizeing antibodies. Eliciting strong antibody responses against the conserved part on the stem would offer universal protection. However, those conserved residues are immunologically recessive and are usually not targeted by the antibodies.
 
-![HA_2](https://user-images.githubusercontent.com/17319617/94998923-9abf1200-0583-11eb-9a70-f1544ec509fa.jpg)
-
-# [Spike_targeting_vaccine_head2.pdf]#(https://github.com/amitaiassaf/B-cell-Immunodominance-Hierarchies/files/5322066/Spike_targeting_vaccine_head2.pdf)
 
 B cell immunodominance is phenomenon where some part of an antigen is targeted more strongly that other. We sought to understand what are the rules determining the immunodominance of the head versu the conserved part on the stem. We study the effect of three factors:
 
 1] Immunogen geometry.
 2] B cell precursor frequency against different HA epitopes.
 3] The initial affinity of those B cell precursors torwards their target epitope.
-
-
-# ![HA_1]#(https://user-images.githubusercontent.com/17319617/94998575-baa10680-0580-11eb-9376-775d1c8ef983.jpg)
-
 
 Immunodominance is the immunological phenomenon in which immune responses are mounted against only a few of the antigenic
 
