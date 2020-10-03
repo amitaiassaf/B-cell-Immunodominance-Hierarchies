@@ -9,14 +9,20 @@ Following vaccination, the immune system generates antibodies that target HA and
 
 B cell immunodominance is phenomenon where some part of an antigen is targeted more strongly that other. We sought to understand what are the rules determining the immunodominance of the head versu the conserved part on the stem. We study the effect of three factors:
 
-1] Virus geometry.
+1] Immunogen geometry.
 
 2] B cell precursor frequency against different HA epitopes.
 
 3] The initial affinity of those B cell precursors torwards their target epitope.
 
+To account for immunogen geometry, we created coarse grainded representation of four immunogen used for vaccination
 
 
+We used molecular dynamics simulations to compute the on-rate of the second and first one rate of an antibody model to different surface residues (epitopes) of HA as they are presented on the immunogen
+
+![](/Images/NP_1.jpg)
+
+and computed the on rate
 
 Immunodominance is the immunological phenomenon in which immune responses are mounted against only a few of the antigenic
 
