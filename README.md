@@ -22,7 +22,9 @@ We used molecular dynamics simulations to compute the on-rate of the second and 
 
 ![](/Images/NP_1.jpg)
 
-and computed the on rate
+We computed the on rate of the first antibody arm and the second antibody.
+
+
 
 Immunodominance is the immunological phenomenon in which immune responses are mounted against only a few of the antigenic
 
