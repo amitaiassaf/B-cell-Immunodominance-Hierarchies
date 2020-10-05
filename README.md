@@ -26,7 +26,9 @@ The rates are input to a germinal center simulation that predicts the number of 
 
 <img src="/Images/GC_scheme_1.jpg" width="600">
 
-Based on this simulation, we can estimate the fraction of memory B cells against different surface residues
+Based on this simulation, we can estimate the fraction of memory B cells against different surface residues - these are the B cell immunodominance maps 
+
+<img src="/Images/B_cell_immuno_virus.jpg" width="800">
 
 
 Code related to the manuscript "Defining and Manipulating B cell Immunodominance Hierarchies to Elicit Broadly Neutralizing Antibody Responses Against Influenza Virus."
