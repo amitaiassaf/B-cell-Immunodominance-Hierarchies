@@ -33,4 +33,7 @@ Based on this simulation, we can estimate the fraction of memory B cells against
 
 You can download pdb files to illustrating the immunodominance maps of HA [Here](https://github.com/amitaiassaf/B-cell-Immunodominance-Hierarchies/tree/master/ImmunodominanceMapsHA)
 
+Vaccinating with nanoparticle presenting the stem alone elicits response against the conserved residues
+
+<img src="/Images/Bcell_immuno_SSnp.jpg" width="800">
 
