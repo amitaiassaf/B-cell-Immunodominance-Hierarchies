@@ -6,8 +6,6 @@ The yearly vaccine against the influenza virus targets a protein on its surface 
 
 <img src="/Images/HA_2.jpg" width="600">
 
-# ![](/Images/HA_2.jpg)
-
 B cell immunodominance is phenomenon where some part of an antigen is targeted more strongly that other. We sought to understand what are the rules determining the immunodominance of the head versu the conserved part on the stem. We study the effect of three factors:
 
 1] Immunogen geometry.
@@ -18,16 +16,15 @@ B cell immunodominance is phenomenon where some part of an antigen is targeted m
 
 To account for immunogen geometry, we created coarse grainded representation of four immunogen used for vaccination
 
-![](/Images/NP_1.jpg)
+<img src="/Images/NP_1.jpg" width="600">
 
 We used molecular dynamics simulations to compute the on-rate of the second and first one rate of an antibody model to different surface residues (epitopes) of HA as they are presented on the immunogen. We computed the on-rate of the first antibody arm and the second arm of the antibody, which gives us the geometry-dependent component contributing to epitope-specific affinity. 
 
-![](/Images/virus_onrate_1.jpg)
-
+<img src="/Images/virus_onrate_1.jpg" width="600">
 
 The rates are input to a germinal center simulation that predicts the number of B cells created against different residue on the surfance of HA
 
-![](/Images/GC_scheme_1.jpg)
+<img src="/Images/GC_scheme_1.jpg" width="600">
 
 Immunodominance is the immunological phenomenon in which immune responses are mounted against only a few of the antigenic
 
