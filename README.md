@@ -19,12 +19,12 @@ To account for immunogen geometry, we created coarse grainded representation of 
 
 We used molecular dynamics simulations to compute the on-rate of the second and first one rate of an antibody model to different surface residues (epitopes) of HA as they are presented on the immunogen
 
+
 ![](/Images/NP_1.jpg)
 
 We computed the on-rate of the first antibody arm and the second arm of the antibody, which gives us the geometry-dependent component contributing to epitope-specific affinity. Those rates are input to a germinal center simulation that predicts the number of B cells created against different residue on the surfance of HA
 
-
-
+![](/Images/GC_scheme_1.jpg)
 
 Immunodominance is the immunological phenomenon in which immune responses are mounted against only a few of the antigenic
 
