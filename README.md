@@ -26,15 +26,5 @@ The rates are input to a germinal center simulation that predicts the number of 
 
 <img src="/Images/GC_scheme_1.jpg" width="600">
 
-Immunodominance is the immunological phenomenon in which immune responses are mounted against only a few of the antigenic
-
-Operationally defining the rules governing epitope immunodominance hierarchies would be a critical asset in subverting this property. However, immunogenicity, or the strength of an antibody response against a given epitope, depends on a complex set of interactions during the humoral response and has consequently proven difficult to computationally delineate or predict 
-
-Most flu vaccines consist of inactivated flu viruses. These viruses are coated with a protein called hemagglutinin (HA), which helps them bind to host cells. After vaccination, the immune system generates squadrons of antibodies that target the HA protein. These antibodies almost always bind to the head of the HA protein, which is the part of the protein that mutates the most rapidly. Parts of tThe HA stem, on the other hand, very rarely mutates. 
-
-The influenza virus mutates
-
-Each year, the flu vaccine has to be redesigned to account for mutations that the virus accumulates, and even then, the vaccine is often not fully protective for everyone. 
-
 Code related to the manuscript "Defining and Manipulating B cell Immunodominance Hierarchies to Elicit Broadly Neutralizing Antibody Responses Against Influenza Virus."
 
