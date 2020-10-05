@@ -1,5 +1,6 @@
 # B-cell-Immunodominance-Hierarchies
 
+Related to the manuscript ["Defining and Manipulating B cell Immunodominance Hierarchies to Elicit Broadly Neutralizing Antibody Responses Against Influenza Virus."]
 
 
 The yearly vaccine against the influenza virus targets a protein on its surface called hemagglutinin (HA), which helps the virus to bind and enter the host cells. Following vaccination, the immune system generates antibodies that target HA and can neutralize the virus. Most antibodies target the head of the HA protein, which mutates rapidly and often escapes those antibodies. The stem of HA contains conserved residues that are the target of broadly neutralizing antibodies. Eliciting strong antibody responses against the conserved part on the stem would offer universal protection. However, those conserved residues are immunologically recessive and are usually not targeted by the antibodies.
@@ -26,10 +27,8 @@ The rates are input to a germinal center simulation that predicts the number of 
 
 <img src="/Images/GC_scheme_1.jpg" width="600">
 
-Based on this simulation, we can estimate the fraction of memory B cells against different surface residues - these are the B cell immunodominance maps 
+Based on this simulation, we can estimate the fraction of memory B cells against different surface residues - these are the B cell immunodominance maps (estimating from a simulation) of HA
 
 <img src="/Images/B_cell_immuno_virus.jpg" width="800">
 
-
-Code related to the manuscript "Defining and Manipulating B cell Immunodominance Hierarchies to Elicit Broadly Neutralizing Antibody Responses Against Influenza Virus."
-
+You can download pdb files to illustrating the immunodominance maps of HA [Here](https://github.com/amitaiassaf/B-cell-Immunodominance-Hierarchies/tree/master/ImmunodominanceMapsHA)
