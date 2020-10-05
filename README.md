@@ -16,15 +16,14 @@ B cell immunodominance is phenomenon where some part of an antigen is targeted m
 
 To account for immunogen geometry, we created coarse grainded representation of four immunogen used for vaccination
 
+![](/Images/NP_1.jpg)
 
-We used molecular dynamics simulations to compute the on-rate of the second and first one rate of an antibody model to different surface residues (epitopes) of HA as they are presented on the immunogen
+We used molecular dynamics simulations to compute the on-rate of the second and first one rate of an antibody model to different surface residues (epitopes) of HA as they are presented on the immunogen. We computed the on-rate of the first antibody arm and the second arm of the antibody, which gives us the geometry-dependent component contributing to epitope-specific affinity. 
 
 ![](/Images/virus_onrate_1.jpg)
 
 
-![](/Images/NP_1.jpg)
-
-We computed the on-rate of the first antibody arm and the second arm of the antibody, which gives us the geometry-dependent component contributing to epitope-specific affinity. Those rates are input to a germinal center simulation that predicts the number of B cells created against different residue on the surfance of HA
+The rates are input to a germinal center simulation that predicts the number of B cells created against different residue on the surfance of HA
 
 ![](/Images/GC_scheme_1.jpg)
 
@@ -40,8 +39,3 @@ Each year, the flu vaccine has to be redesigned to account for mutations that th
 
 Code related to the manuscript "Defining and Manipulating B cell Immunodominance Hierarchies to Elicit Broadly Neutralizing Antibody Responses Against Influenza Virus."
 
-
-
-
-
-#![Figure 3_1](https://user-images.githubusercontent.com/17319617/94994644-eca56f00-0566-11eb-80f5-99b37c90b9f5.jpg)
