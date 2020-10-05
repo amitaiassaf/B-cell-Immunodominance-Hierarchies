@@ -27,8 +27,10 @@ The rates are input to a germinal center simulation that predicts the number of 
 
 <img src="/Images/GC_scheme_1.jpg" width="600">
 
-Based on this simulation, we can estimate the fraction of memory B cells against different surface residues - these are the B cell immunodominance maps (estimating from a simulation) of HA
+Based on this simulation, we can estimate the fraction of memory B cells against different surface residues - these are the B cell immunodominance maps (estimating from a simulation) of HA. The conserved part on the stem is outlines in yellow. Vaccination with the virus elicits very little response against this part
 
 <img src="/Images/B_cell_immuno_virus.jpg" width="800">
 
 You can download pdb files to illustrating the immunodominance maps of HA [Here](https://github.com/amitaiassaf/B-cell-Immunodominance-Hierarchies/tree/master/ImmunodominanceMapsHA)
+
+
