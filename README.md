@@ -5,7 +5,7 @@ Related to the manuscript ["Defining and Manipulating B cell Immunodominance Hie
 
 The yearly vaccine against the influenza virus targets a protein on its surface called hemagglutinin (HA), which helps the virus to bind and enter the host cells. Following vaccination, the immune system generates antibodies that target HA and can neutralize the virus. Most antibodies target the head of the HA protein, which mutates rapidly and often escapes those antibodies. The stem of HA contains conserved residues that are the target of broadly neutralizing antibodies. Eliciting strong antibody responses against the conserved part on the stem would offer universal protection. However, those conserved residues are immunologically recessive and are usually not targeted by the antibodies.
 
-<img src="/Images/HA_2.jpg" width="600">
+<img src="/Images/HA_3.jpg" width="600">
 
 B cell immunodominance is phenomenon where some part of an antigen is targeted more strongly that other. We sought to understand what are the rules determining the immunodominance of the head versu the conserved part on the stem. We study the effect of three factors:
 
