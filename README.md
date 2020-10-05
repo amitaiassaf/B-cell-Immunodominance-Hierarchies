@@ -21,7 +21,8 @@ We used molecular dynamics simulations to compute the on-rate of the second and 
 
 ![](/Images/NP_1.jpg)
 
-We computed the on rate of the first antibody arm and the second antibody.
+We computed the on-rate of the first antibody arm and the second arm of the antibody, which gives us the geometry-dependent component contributing to epitope-specific affinity. Those rates are input to a germinal center simulation that predicts the number of B cells created against different residue on the surfance of HA
+
 
 
 
