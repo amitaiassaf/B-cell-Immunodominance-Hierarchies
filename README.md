@@ -4,6 +4,9 @@
 
 The yearly vaccine against the influenza virus targets a protein on its surface called hemagglutinin (HA), which helps the virus to bind and enter the host cells. Following vaccination, the immune system generates antibodies that target HA and can neutralize the virus. Most antibodies target the head of the HA protein, which mutates rapidly and often escapes those antibodies. The stem of HA contains conserved residues that are the target of broadly neutralizing antibodies. Eliciting strong antibody responses against the conserved part on the stem would offer universal protection. However, those conserved residues are immunologically recessive and are usually not targeted by the antibodies.
 
+<img src="/Images/HA_2.jpg" width="48">
+
+
 ![test image size](/Images/HA_2.jpg){:height="50%" width="50%"}
 
 ![](/Images/HA_2.jpg)
