@@ -37,3 +37,7 @@ Vaccinating with nanoparticle presenting the stem alone elicits response against
 
 <img src="/Images/Bcell_immuno_SSnp.jpg" width="800">
 
+The number of memory B cells against different epitopes depends on B cell precursor frequency and their initial (germline) affinity
+
+<img src="/Images/Bcell_immuno_SSnp_precursor_affinity.jpg" width="800">
+
