@@ -6,10 +6,7 @@ The yearly vaccine against the influenza virus targets a protein on its surface 
 
 <img src="/Images/HA_2.jpg" width="600">
 
-
-![test image size](/Images/HA_2.jpg){:height="50%" width="50%"}
-
-![](/Images/HA_2.jpg)
+# ![](/Images/HA_2.jpg)
 
 B cell immunodominance is phenomenon where some part of an antigen is targeted more strongly that other. We sought to understand what are the rules determining the immunodominance of the head versu the conserved part on the stem. We study the effect of three factors:
 
