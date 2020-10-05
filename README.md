@@ -19,6 +19,8 @@ To account for immunogen geometry, we created coarse grainded representation of 
 
 We used molecular dynamics simulations to compute the on-rate of the second and first one rate of an antibody model to different surface residues (epitopes) of HA as they are presented on the immunogen
 
+![](/Images/virus_onrate_1.jpg)
+
 
 ![](/Images/NP_1.jpg)
 
@@ -42,4 +44,4 @@ Code related to the manuscript "Defining and Manipulating B cell Immunodominance
 
 
 
-![Figure 3_1](https://user-images.githubusercontent.com/17319617/94994644-eca56f00-0566-11eb-80f5-99b37c90b9f5.jpg)
+#![Figure 3_1](https://user-images.githubusercontent.com/17319617/94994644-eca56f00-0566-11eb-80f5-99b37c90b9f5.jpg)
