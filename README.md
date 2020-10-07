@@ -7,15 +7,15 @@ The yearly vaccine against the influenza virus targets a protein on its surface 
 
 <img src="/Images/HA_3.jpg" width="600">
 
-B cell immunodominance is phenomenon where some part of an antigen is targeted more strongly that other. We sought to understand what are the rules determining the immunodominance of the head versu the conserved part on the stem. We study the effect of three factors:
+B cell immunodominance is a phenomenon where some part of an antigen is targeted more strongly that other. We sought to understand what are the rules determining the immunodominance of the head versus the conserved part on the stem. We study the effect of three factors:
 
 1] Immunogen geometry.
 
 2] B cell precursor frequency against different HA epitopes.
 
-3] The initial affinity of those B cell precursors torwards their target epitope.
+3] The initial affinity of those B cell precursors towards their target epitope.
 
-To account for immunogen geometry, we created coarse grainded representation of four immunogen used for vaccination
+To account for immunogen geometry, we created a coarse-grained representation of four immunogens used for vaccination
 
 <img src="/Images/NP_1.jpg" width="600">
 
@@ -23,11 +23,11 @@ We used molecular dynamics simulations to compute the on-rate of the second and 
 
 <img src="/Images/virus_onrate_1.jpg" width="600">
 
-The rates are input to a germinal center simulation that predicts the number of B cells created against different residue on the surfance of HA
+The rates are input to a germinal center simulation that predicts the number of B cells created against different residue on the surface of HA
 
 <img src="/Images/GC_scheme_1.jpg" width="600">
 
-Based on this simulation, we can estimate the fraction of memory B cells against different surface residues - these are the B cell immunodominance maps (estimating from a simulation) of HA. The conserved part on the stem is outlines in yellow. Vaccination with the virus elicits very little response against this part
+Based on this simulation, we can estimate the fraction of memory B cells against different surface residues - these are the B cell immunodominance maps (estimating from a simulation) of HA. The conserved part on the stem is outlined in yellow. Vaccination with the virus elicits very little response against this part
 
 <img src="/Images/B_cell_immuno_virus.jpg" width="800">
 
@@ -40,4 +40,3 @@ Vaccinating with nanoparticle presenting the stem alone elicits response against
 The number of memory B cells against different epitopes depends on B cell precursor frequency and their initial (germline) affinity
 
 <img src="/Images/Bcell_immuno_SSnp_precursor_affinity.jpg" width="800">
-
